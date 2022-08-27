@@ -1,1 +1,1 @@
-# paddy-desease-classification
+# Paddy desease classification
